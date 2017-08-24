@@ -1,0 +1,34 @@
+h1{
+			color: yellow;
+			font-family: Arial;
+			text-align: center;
+		}
+		h2{
+			color:red;
+			font-family: Saiyan Sans - Right Oblicua;
+			text-align: center;
+		}
+		h3{
+			color:blue;
+			font-family: ONE PIECE;
+			text-align: center;
+		}
+		h4{
+			color:red;
+			font-family: serif; 
+			text-align: center;
+		}
+		h5{
+			color:gray;
+			font-family: Tahoma;
+			text-align: center;
+		}
+		p{
+		color: yellow;
+		font-family: ONE PIECE;
+		text-align: justify;
+		font-size: 24PX;
+		}
+		header {
+			class="container-fluid"
+		}
